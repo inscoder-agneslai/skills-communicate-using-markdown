@@ -10,3 +10,6 @@
 ``` javascript
 const greeting = "Hello World"
 ```
+
+- [X] Open Github account
+- [ ] Finish "Communicate Using Markdown" course
